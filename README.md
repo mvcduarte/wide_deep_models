@@ -1,5 +1,5 @@
-# wide_deep_models
-Wide and Deep Models
+# ANN_wide_deep_models
+Artificial Neural Network: Wide and Deep Models
 
 
 Are you able to predict the price of a certain wine bottle only from its description and region? Sincerely, I am not, but Machine learning can do it!
